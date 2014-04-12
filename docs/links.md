@@ -9,3 +9,4 @@
 * http://www.bluetooth.com
 * https://www.bluetooth.org
 * http://bleduino.cc
+* [Introduction to Bluetooth+Arduino by Kytelabs](https://www4.gotomeeting.com/register/269036559)
